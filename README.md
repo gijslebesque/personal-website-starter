@@ -1,4 +1,4 @@
-# Persona website
+# Personal website
 The challenge is to create a personal webpage 
 
 # Getting started
