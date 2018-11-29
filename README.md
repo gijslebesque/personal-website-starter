@@ -1,6 +1,3 @@
-# Personal website
-The challenge is to create a personal webpage 
-
 # Getting started
 1. First download a text editor to your liking. I personally use Sublime Text. Which you can download at https://www.sublimetext.com/.
 
