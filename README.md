@@ -7,7 +7,7 @@
 
 4. Double click on the index.html in order to open the webpage with your favourite browser (although ideally you use Google Chrome).
 
-5. See a live example[here](https://gijslebesque.github.io/)
+5. See a live example [here](https://gijslebesque.github.io/)
 
 
 # Extra reading 
