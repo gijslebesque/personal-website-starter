@@ -14,5 +14,5 @@
 - The CSS box model: https://www.w3schools.com/css/css_boxmodel.asp
 - CSS flex box for layout: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 - A mini game to learn flex box: https://flexboxfroggy.com
-- Learn how to use JavaScipt in order to make your page interactive: https://www.w3schools.com/js/js_htmldom.asp
+- Learn how to use JavaScript in order to make your page interactive: https://www.w3schools.com/js/js_htmldom.asp
 - Box shadow generator: https://www.cssmatic.com/box-shadow
